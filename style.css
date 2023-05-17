@@ -63,6 +63,8 @@ body{
 .team .team_member p {
  margin-bottom: 20px; 
   text-align: justify;
+  letter-spacing: 1px;
+
   
 }
 .team .team_member .social-media
